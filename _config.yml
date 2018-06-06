@@ -22,7 +22,7 @@ weibo_username:     cstopery
 zhihu_username:     cstopery
 github_username:    cstopery
 facebook_username:  cstopery
-jianshu_username:   cstopery
+#jianshu_username:   cstopery
 twitter_username:   cstopery
 
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Sugoubao",
+        href: "http://www.sugoubao.cn"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Cst-Blog",
+        href: "https://blog.cst.org.cn"
     },{
         title: "Apple",
         href: "https://apple.com"
