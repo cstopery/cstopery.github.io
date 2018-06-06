@@ -57,13 +57,13 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: cstopery
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: cefdfa597826ce74e3ac                            #生成的clientID
-  clientSecret: 16ed700a28f28c48fe83e7e89928a99f1cb649cf    #生成的clientSecret
+  clientID: 89de26854cf5251cc02f                            #生成的clientID
+  clientSecret: e0440004ec8cdb52b71e9094046c2bae5eb37332    #生成的clientSecret
   repo: cstopery.github.io    #仓库名称
   owner: cstopery    #github用户名
   admin: cstopery
